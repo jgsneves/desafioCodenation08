@@ -1,3 +1,7 @@
+<h1 align=center>
+<img src="https://raw.githubusercontent.com/jgsneves/desafioCodenation/master/codenation.png" />
+</h1>
+
 # Desafio RESTful API Modeling Language (RAML)
 
 Projetar uma API é fácil. Mas projetar uma API que tenha vida longa e que seus usuários 
